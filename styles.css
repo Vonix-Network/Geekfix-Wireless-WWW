@@ -189,6 +189,7 @@ img {
     position: relative;
     background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     overflow: hidden;
+    margin-top: 10px !important;
 }
 
 .hero-background {
@@ -1135,4 +1136,5 @@ textarea:focus {
 .loading.loaded {
     opacity: 1;
     transform: translateY(0);
+
 }
