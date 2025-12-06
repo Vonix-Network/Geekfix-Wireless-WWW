@@ -791,6 +791,7 @@ console.log(`
 %c🔧 GeekFix Pro - Premium Phone Repair
 %cWebsite loaded successfully! 
 Built with modern web technologies for the best user experience.
-Contact: (313) 564-9427
+Contact: (864) 753-6194
+
 
 `, 'color: #3b82f6; font-size: 16px; font-weight: bold;', 'color: #6b7280; font-size: 14px;');
